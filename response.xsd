@@ -25,7 +25,7 @@
     <xs:element name="monitoring-response" type="ewp:Empty">
         <xs:annotation>
             <xs:documentation>
-                This describes the format of the response returned by the EWP Monitoring API
+                This describes the format of the response returned by the EWP Monitoring API.
 
                 Currently Monitoring responses are always empty.
             </xs:documentation>
